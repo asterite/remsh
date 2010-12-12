@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Remembering Simplified Hanzi</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="character_mode">Character mode</string>
+    <string name="keyword_mode">Keyword mode</string>
+    <string name="day_night">Day/Night</string>
+    <string name="search_hint">Search Chinese character</string>
+    <string name="no_results_found">No results found for \"%s\"</string>
+    <string name="settings_description">Chinese characters</string>
+    <string name="configure_limits">Configure limits</string>
+    <string name="first_frame_to_show">First frame to show (1-%s):</string>
+    <string name="last_frame_to_show">Last frame to show (1-%s):</string>
+    <string name="invalid_first_frame_number">Invalid first frame number</string>
+    <string name="invalid_last_frame_number">Invalid last frame number</string>
+    <string name="the_last_frame_cant_be_less_than_the_first_one">The last frame number can\'t be less than the first one</string>
+    <string name="shuffle">Shuffle</string>
+</resources>
